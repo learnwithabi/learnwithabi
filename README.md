@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-I'm a **Senior Solution Engineer** at **Databricks** with **17+ years** in cloud computing. I lead the **Databricks Community in Bangalore** and actively volunteering in the **AWS Bangalore Community**.
+I'm a **Senior Solution Engineer** at **Databricks** with **17+ years** in cloud computing and Data engineering AI/ML . I lead the **Databricks Community in Bangalore** and actively volunteering in the **AWS Bangalore Community**.
 
 ## 🏆 Certifications
 
@@ -23,7 +23,7 @@ I have completed the following certifications:
 ## 💼 Skills
 
 - Customer Engagement
-- Incident Management
+- GenAi solutions consultant
 - Engineering Management
 - Cloud Strategy
 
@@ -33,7 +33,7 @@ I have completed the following certifications:
 
 ---
 
-**🌱 Passionate about cloud tech, data analytics, and community collaboration!**
+**🌱 Passionate about Cloud Technology, Data AI/ML , and Community collaboration!**
 
 Here’s a summary of the meetups and online events where I have presented, including details links and images.
 
