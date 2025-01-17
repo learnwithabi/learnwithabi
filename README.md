@@ -278,6 +278,7 @@ Participants will gain an in-depth understanding of Amazon Bedrock's robust feat
   <img src="./images/mits-1.png" alt="MITs" />
   <img src="./images/mits-2.png" alt="MITs" />
 </div>
+
 ---
 
 ### 14. **Meta's AI Assistants Can Now Talk and See**
@@ -352,6 +353,7 @@ October 19, 2024
   <img src="./images/Databricks-BigData-1.png" alt="Databricks and Big Data" />
   <img src="./images/Databricks-BigData-2.png" alt="Databricks and Big Data" />
 </div>
+
 ---
 
 ### 17. Advanced Security and Governance: We dove deep into managing AI workflows securely in Databricks and Mosaic AI Gateway, ensuring data protection at every level.
