@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-I'm a **Senior Solution Engineer** at **Databricks** with **17+ years** in cloud computing. I lead the **Databricks Community in Bangalore** and actively participate in the **AWS Bangalore Community**.
+I'm a **Senior Solution Engineer** at **Databricks** with **17+ years** in cloud computing. I lead the **Databricks Community in Bangalore** and actively volunteering in the **AWS Bangalore Community**.
 
 ## 🏆 Certifications
 
@@ -18,7 +18,7 @@ I have completed the following certifications:
 
 - ☁️ Azure Solutions Architect Expert
 - 🔍 Multiple Databricks certifications
-- 💻 50+ certifications in Linux, VMware, Citrix, and Oracle
+- 💻 20+ certifications in Linux, VMware, Citrix, and Oracle
 
 ## 💼 Skills
 
@@ -39,34 +39,13 @@ Here’s a summary of the meetups and online events where I have presented, incl
 
 ## Meetups and Online Events
 
-### 1. **ICDMAI 2025 Conference**
-   - **Date:** Upcoming Event (Details to be confirmed)
-   - **Event:** ICDMAI Conference
-   - **Description:** Participation in sessions related to data science and AI.
+### 1. **AWS Cloud Club SJIT!**
 
-   - **LinkedIn Post:** [View Here](https://www.linkedin.com/posts/icdmai_icdmai-icdmai2025-activity-7276953584796106752-NauM?utm_source=share&utm_medium=member_desktop)
----
-### 2. **S4DS Event**
-   - **Date:** Upcoming Event 
-   - **Event:** S4DS Conference
-   - **Description:** Engaging with the community on data science topics.
-
-   - **LinkedIn Post:** [View Here](https://www.linkedin.com/posts/saptarsi-goswami-phd-93073661_icdmai-s4ds-rag-activity-7276301629631471616-bSKp?utm_source=share&utm_medium=member_desktop)
----
-### 3. **Databricks & AI Workshop**
-   - **Date:** 
-   - **Event:** Workshop on Databricks and AI
-   - **Description:** Exploring the integration of AI with Databricks technologies.
-
-   - **LinkedIn Post:** [View Here](https://www.linkedin.com/posts/manjukaup_databricks-ai-mosaicml-ugcPost-7254721181172346880-jMyJ?utm_source=share&utm_medium=member_desktop)
-
----
-### 4. **AWS Cloud Club SJIT!**
-
-- **Date:** 
+- **Date:** Feb 10th, 2024
 - **Event:** AWS Cloud Club SJIT!
 - **Description:** I had the incredible honor of presenting a tech talk on "Crafting Intelligence with LLM on Databricks in AWS." I dove deep into how to run LLMs in Databricks environments for peak productivity, sparking insightful discussions and shared learning.
-- **LinkedIn Post:** 
+- **LinkedIn Post:** [View Here](https://www.linkedin.com/posts/abishek-subramanian_learnwithabi-awsstudentcommunityday-llms-activity-7163454270833381377-0-y2?utm_source=share&utm_medium=member_desktop)
+- **LinkedIn Post:** [View Here](https://www.linkedin.com/feed/update/urn:li:activity:7150425217683587072?utm_source=share&utm_medium=member_desktop)
 - **Images:** 
 
 <div align="center">
@@ -76,22 +55,10 @@ Here’s a summary of the meetups and online events where I have presented, incl
   <img src="./images/sjit-4.png" alt="SJIT Event 4" />
 </div>
 
---- 
-### 5. **AWS re:Invent 2023's re:Cap meetup by AWS UG Bengaluru yesterday.**
-
-- **Date:**  March 23rd, 2024
-- **Event:** AWS re:Invent 2023's re:Cap meetup by AWS UG Bengaluru yesterday.
-- **Description:** I was a volunteer at the AWS re:Cap meetup conducted by AWS UG Bengaluru. I was able to meet and interact with some of the most amazing people in the AWS community. 
-- **LinkedIn Post:** 
-- **Images:** 
-
-<div align="center">
-  <img src="./images/re-cap-23.png" alt="AWS re:Cap 2023" />
-</div>
 ---
 
-### 6. **Lets Talk Tech Episode 2**
-- **Date:** 
+### 2 . **Lets Talk Tech Episode 2**
+- **Date:** Feb 10th, 2024
 - **Event:** Lets Talk Tech Episode 2
 - **Description:** 🚀 Episode 2 of 'Lets Talk Tech' is here! 🌐 In this episode, we're diving deep into the future of data analytics with our distinguished guest, Abishek Subramanian, Senior Technical Solutions Engineer at Databricks. 🔍🔧
 
@@ -109,9 +76,24 @@ Join us on this enlightening conversation as we explore the intersection of tech
     <img src="./images/terv.png" alt="Lets Talk Tech Episode 2" />
   </a>
 </div>
+
+--- 
+
+### 3. **AWS re:Invent 2023's re:Cap meetup by AWS UG Bengaluru **
+
+- **Date:**  Feb 17th, 2024
+- **Event:** AWS re:Invent 2023's re:Cap meetup by AWS UG Bengaluru .
+- **Description:** I was a volunteer at the AWS re:Cap meetup conducted by AWS UG Bengaluru. I was able to meet and interact with some of the most amazing people in the AWS community. 
+- **LinkedIn Post:** 
+- **Images:** 
+
+<div align="center">
+  <img src="./images/re-cap-23.png" alt="AWS re:Cap 2023" />
+</div>
+
 ---
 
-### 7. **9'th World Machine Learning Summit**
+### 4. **9'th World Machine Learning Summit**
 
 - **Date:** March 21, 2024
 - **Event:** 9th World Machine Learning Summit
@@ -124,9 +106,10 @@ Join us on this enlightening conversation as we explore the intersection of tech
 <div align="center">
   <img src="./images/wmls.png" alt="9th World Machine Learning Summit" />
 </div>
+
 ---
 
-### 8. **Databricks Support Model Engagement**
+### 5. **Databricks Support Model Engagement**
 
 - **Date:** March 22, 2024
 - **Event:** Databricks Support Model Engagement
@@ -138,16 +121,18 @@ Join us on this enlightening conversation as we explore the intersection of tech
   <img src="./images/databricks-support-1.png" alt="Databricks Support Model Engagement" />
   <img src="./images/databricks-support-2.png" alt="Databricks Support Model Engagement" />
 </div>
+
 ---
 
-### 9. **AWS Community Day Bengaluru 2024**
+### 6. **AWS Community Day Bengaluru 2024**
 
-- **Date:** 
+- **Date:** March 23, 2024
 - **Event:** AWS Community Day Bengaluru 2024
 - **Description:** 🌟Thrilled to recount my experiences as a volunteer during AWS Community Day Bengaluru 2024!🌟 - AWS Users Group Bengaluru
 I had the incredible opportunity to be part of the AWS Users Group Bengaluru Community Day, where passion, expertise, and innovation converged to create an unforgettable experience. None of this would have been possible without the dedication and hard work of our amazing volunteers and mentors. A heartfelt thank you to each one of you: 
 Bhuvaneswari Subramani, Jones Zachariah Noel N, Vivek Raja P S, Avinash Dalvi, Sridevi Murugayen, Ramya Natesan, Padmini Subramanian, Ranjinni Joshe, Omshree Butani, Ayyanar Jeyakrishnan (AJ) , Sankara Sabapathy, Hari kiran G, Ganesh Samarthyam, Jeevan Dongre.
 - **LinkedIn Post:** [View Here](https://www.linkedin.com/posts/abishek-subramanian_aws-newrelic-aws-activity-7180247267642077185-tJJi?utm_source=share&utm_medium=member_desktop)
+- **LinkedIn Post:** [View Here](https://www.linkedin.com/posts/awsugblr_we-the-aws-user-group-bengaluru-expresses-ugcPost-7176994092499779584-lE2k?utm_source=share&utm_medium=member_desktop)
 - **Image:** 
 
 <div align="center">
@@ -159,9 +144,10 @@ Bhuvaneswari Subramani, Jones Zachariah Noel N, Vivek Raja P S, Avinash Dalvi, S
   <img src="./images/ACD-Bangalore-6.png" alt="AWS Community Day Bengaluru 2024" />
 
 </div>
+
 ---
 
-### 10. **Databricks Generative AI World Cup Hackathon**
+### 7. **Databricks Generative AI World Cup Hackathon**
 
 - **Date:** April 15 to May 6, 2024
 - **Event:** Databricks Generative AI World Cup Hackathon
@@ -172,9 +158,10 @@ Bhuvaneswari Subramani, Jones Zachariah Noel N, Vivek Raja P S, Avinash Dalvi, S
 <div align="center">
   <img src="./images/databricks-hackathon.png" alt="Databricks Generative AI World Cup Hackathon" />
 </div>
+
 ---
 
-### 11. **Latest insights on boosting productivity for Data Engineers**
+### 8. **Latest insights on boosting productivity for Data Engineers**
 
 - **Date:**  May 2024
 - **Event:** Dive into the world of Databricks Assistant with our latest insights on boosting productivity for Data Engineers
@@ -187,11 +174,12 @@ Bhuvaneswari Subramani, Jones Zachariah Noel N, Vivek Raja P S, Avinash Dalvi, S
   <img src="./images/insights-1.png" alt="Databricks Assistant" />
   <img src="./images/insights-2.png" alt="Databricks Assistant" />
 </div>
+
 ---
 
-### 12. **Optimizing AI Workflows: Harnessing Amazon Bedrock with Databricks Model Serving**
+### 9. **Optimizing AI Workflows: Harnessing Amazon Bedrock with Databricks Model Serving**
 
-- **Date:** Saturday, June 29, 2024
+- **Date:** June 29, 2024
 - **Event:** Optimizing AI Workflows: Harnessing Amazon Bedrock with Databricks Model Serving
 - **Description:** In the rapidly evolving landscape of artificial intelligence and machine learning, integrating powerful external models into scalable platforms is crucial for staying competitive. This session, "Harnessing the Power of External Models with Amazon Bedrock in Databricks Model Serving," offers a comprehensive exploration of how Amazon Bedrock models can be effectively deployed and served within the Databricks environment to enhance AI capabilities.
 Participants will gain an in-depth understanding of Amazon Bedrock's robust features and Databricks Model Serving's dynamic infrastructure. The session will cover essential aspects such as the integration process, best practices for seamless deployment, and strategies for optimizing model performance and scalability. Through real-world case studies and live demonstrations, attendees will see firsthand the tangible benefits and performance improvements achieved by leveraging this powerful combination.
@@ -210,9 +198,10 @@ Participants will gain an in-depth understanding of Amazon Bedrock's robust feat
  <img src="./images/nasdaq3.png" alt="nasdaq" />
  <img src="./images/nasdaq4.png" alt="nasdaq" />
 </div>
+
 ---
 
-### 13. **Databricks MLOps and Model Serving Endpoint**
+### 10. **Databricks MLOps and Model Serving Endpoint**
 
 - **Date:** July 6th, 2024
 - **Event:** Databricks MLOps and Model Serving Endpoint
@@ -234,9 +223,10 @@ Participants will gain an in-depth understanding of Amazon Bedrock's robust feat
   <img src="./images/data-bricks-event3.png" alt="Databricks MLOps" />
   <img src="./images/data-bricks-event4.png" alt="Databricks MLOps" />
 </div>
+
 ---
 
-### 14. **Topmate Creator Awards Nomination**
+### 11. **Topmate Creator Awards Nomination**
 
 - **Date:** August 23
 - **Event:** Topmate Creator Awards Nomination
@@ -249,9 +239,10 @@ Participants will gain an in-depth understanding of Amazon Bedrock's robust feat
   <img src="./images/top-mate-2.png" alt="Topmate Creator Awards" />
   <img src="./images/top-mate-3.png" alt="Topmate Creator Awards" />
 </div>
+
 ---
 
-### 15. **Virtual Community Social: Deploying Scalable RAG-Based Chatbots on Databricks**
+### 12. **Virtual Community Social: Deploying Scalable RAG-Based Chatbots on Databricks**
 
 - **Date:** August 29, Thursday
 - **Event:** Virtual Community Social
@@ -269,8 +260,10 @@ Participants will gain an in-depth understanding of Amazon Bedrock's robust feat
 <div align="center">
   <img src="./images/databricks-community.png" alt="Databricks Community Social" />
 </div>
+
 ---
-### 16. **Five-Day International Faculty Development Program on "Full Stack Data Science with Generative AI"**
+
+### 13. **Five-Day International Faculty Development Program on "Full Stack Data Science with Generative AI"**
 
 - **Date:** August 19 to August 23, 2024
 - **Event:** Five-Day International Faculty Development Program on "Full Stack Data Science with Generative AI"
@@ -287,7 +280,7 @@ Participants will gain an in-depth understanding of Amazon Bedrock's robust feat
 </div>
 ---
 
-### 17. **Meta's AI Assistants Can Now Talk and See**
+### 14. **Meta's AI Assistants Can Now Talk and See**
 
 - **Event:** Meta's AI Assistants Can Now Talk and See
 - **Description:** Meta's AI assistants have gained the ability to talk and see the world. Additionally, the company is releasing the multimodal Llama 3.2, a free model with visual skills.
@@ -302,9 +295,10 @@ Participants will gain an in-depth understanding of Amazon Bedrock's robust feat
 <div align="center">
   <img src="./images/meta-blog.png" alt="Meta's AI Assistants Can Now Talk and See" />
 </div>
+
 ---
 
-### 18. **ServerlessDays Bengaluru Tech Talk**
+### 15. **ServerlessDays Bengaluru Tech Talk**
 
 - **Date:** August 31, 2024
 - **Event:** ServerlessDays Bengaluru Tech Talk
@@ -326,9 +320,10 @@ Participants will gain an in-depth understanding of Amazon Bedrock's robust feat
   <img src="./images/Serverless-days-7.png" alt="ServerlessDays Bengaluru" />
   <img src="./images/Serverless-days-8.png" alt="ServerlessDays Bengaluru" />
 </div>
+
 ---
 
-### 19. 🚀 Unleash the Power of Databricks Compute! 🚀
+### 16. 🚀 Unleash the Power of Databricks Compute! 🚀
 
 Databricks offers cutting-edge compute solutions for data engineering, science, and analytics workflows. Key features include:
 
@@ -359,7 +354,7 @@ October 19, 2024
 </div>
 ---
 
-### 20. Advanced Security and Governance: We dove deep into managing AI workflows securely in Databricks and Mosaic AI Gateway, ensuring data protection at every level.
+### 17. Advanced Security and Governance: We dove deep into managing AI workflows securely in Databricks and Mosaic AI Gateway, ensuring data protection at every level.
 
 - **Date:** 05th Oct 2024
 - **Event:** Databricks Bangalore User Group Meetup hosted by EPAM Systems
@@ -375,9 +370,10 @@ October 19, 2024
   <img src="./images/epam-systems-2.png" alt="Databricks and MosaicML" />
   <img src="./images/epam-systems-3.png" alt="Databricks and MosaicML" />
 </div>
+
 ---
 
-### 21. Mastering Generative AI: Building and Serving Models with Databricks
+### 18. Mastering Generative AI: Building and Serving Models with Databricks
 
 I delivered an insightful session titled "Mastering Generative AI: Building and Serving Models with Databricks" at a recent event. The presentation showcased his expertise in generative AI and Databricks, offering valuable knowledge to attendees on model development and deployment strategies.
 
@@ -395,9 +391,10 @@ I delivered an insightful session titled "Mastering Generative AI: Building and 
   <img src="./images/GenAI-1.png" alt="Databricks Bangalore" />
   <img src="./images/GenAI-2.png" alt="Databricks Bangalore" />
 </div>
+
 ---
 
-### 22. **TechXConf 2024 Presentation**
+### 19. **TechXConf 2024 Presentation**
 
 - **Date:** November 15th 
 - **Event:** TechXConf, Asia's Largest AI and cloud conference
@@ -421,9 +418,10 @@ I delivered an insightful session titled "Mastering Generative AI: Building and 
   <img src="./images/TechXConf7.png" alt="TechXConf" />
   <img src="./images/TechXConf8.png" alt="TechXConf" />
 </div>
+
 ---
 
-### 23. Data Pipelines on AWS Databricks
+### 20. Data Pipelines on AWS Databricks
 - **Description:** Abishek led a highly successful pre-conference workshop at ICDMAI on December 21-22, 2024. His session on "Data Pipelines on AWS Databricks" attracted over 500 eager participants from across the country, demonstrating the widespread interest in his expertise on cloud-based data solutions.
 - **Date:** December 21-22, 2024 
 - **LinkedIn Posts:**
