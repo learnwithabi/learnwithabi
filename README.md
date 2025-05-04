@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-I'm a **Senior Solution Engineer** at **Databricks** with **17+ years** in cloud computing and Data engineering AI/ML . I lead the **Databricks Community in Bangalore** and actively volunteering in the **AWS Bangalore Community**.
+I'm a **Data leader** with **17+ years** pracetcing AI/MLData engineering and could comouting. I lead the **Databricks Community in Bangalore** and run the following Developer commiuity acroess INDIA **AWS Bangalore Community**.
 
 ## 🏆 Certifications
 
@@ -20,24 +20,15 @@ I have completed the following certifications:
 - 🔍 Multiple Databricks certifications
 - 💻 20+ certifications in Linux, VMware, Citrix, and Oracle
 
-## 💼 Skills
-
-- Customer Engagement
-- GenAi solutions consultant
-- Engineering Management
-- Cloud Strategy
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abishek%20Subramanian-blue)](https://www.linkedin.com/in/abishek-subramanian/)
 
 ---
 
-**🌱 Passionate about Cloud Technology, Data AI/ML , and Community collaboration!**
+Here's a collection of my speaking engagements, both in-person meetups and online events, complete with details, links, and images.
 
-Here’s a summary of the meetups and online events where I have presented, including details links and images.
-
-## Meetups and Online Events
+## In Person Meetups and Online Events
 
 ### 1. **AWS Cloud Club SJIT!**
 
