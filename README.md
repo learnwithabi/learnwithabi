@@ -12,18 +12,18 @@ I'm a **Data leader** with **17+ years** practicing AI/ML Data engineering and c
 ## 🏆 Certifications
 
 I have completed the following certifications: 
-- ☁️ AWS Certified Solutions Architect – Professional
-- ☁️ AWS Certified Solutions Architect – Associate
-- ☁️ AWS Security, Identity, and Compliance
-- ☁️ AWS Solutions Training for Partners: Foundations – Technical
-- ☁️ AWS Solutions Training for Partners: Machine Learning on AWS - Business 
-- ☁️ AWS Solutions Training for Partners: Migrating to AWS - Technical
-- ☁️ AWS Solutions Training for Partners: VMware Cloud on AWS – Technical
-- ☁️ ITIL v3 (Information Technology Infrastructure Library)
-- ☁️ Azure Solutions Architect Expert
-- ☁️ Databricks Certified Associte Data Enginnering 
-- 🔍 Multiple Databricks certifications
-- 💻 20+ certifications in Linux, VMware, Citrix, and Oracle
+-  AWS Certified Solutions Architect – Professional
+-  AWS Certified Solutions Architect – Associate
+-  AWS Security, Identity, and Compliance
+-  AWS Solutions Training for Partners: Foundations – Technical
+-  AWS Solutions Training for Partners: Machine Learning on AWS - Business 
+-  AWS Solutions Training for Partners: Migrating to AWS - Technical
+-  AWS Solutions Training for Partners: VMware Cloud on AWS – Technical
+-  ITIL v3 (Information Technology Infrastructure Library)
+-  Azure Solutions Architect Expert
+-  Databricks Certified Associte Data Enginnering 
+-  Multiple Databricks certifications
+-  20+ certifications in Linux, VMware, Citrix, and Oracle
 
 ## 📫 Connect with Me
 
