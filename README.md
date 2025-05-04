@@ -2,7 +2,12 @@
 
 ## 🌟 About Me
 
-I'm a **Data leader** with **17+ years** pracetcing AI/MLData engineering and could comouting. I lead the **Databricks Community in Bangalore** and run the following Developer commiuity acroess INDIA **AWS Bangalore Community**.
+I'm a **Data leader** with **17+ years** practicing AI/MLData engineering and could computing. I lead the and run the following Developer commiuity acroess INDIA 
+
+**AWS Bangalore Community**
+**DATAOPS Community**
+**Azure Developer Community**
+**Databricks Community**
 
 ## 🏆 Certifications
 
@@ -15,8 +20,8 @@ I have completed the following certifications:
 - ☁️ AWS Solutions Training for Partners: Migrating to AWS - Technical
 - ☁️ AWS Solutions Training for Partners: VMware Cloud on AWS – Technical
 - ☁️ ITIL v3 (Information Technology Infrastructure Library)
-
 - ☁️ Azure Solutions Architect Expert
+- ☁️ Databricks Certified Associte Data Enginnering 
 - 🔍 Multiple Databricks certifications
 - 💻 20+ certifications in Linux, VMware, Citrix, and Oracle
 
