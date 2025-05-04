@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-I'm a **Data leader** with **17+ years** practicing AI/MLData engineering and could computing. I lead the and run the following Developer commiuity acroess INDIA 
+I'm a **Data leader** with **17+ years** practicing AI/ML Data engineering and could computing. I lead the and run the following Developer commiuity acroess INDIA 
 
 **AWS Bangalore Community**
 **DATAOPS Community**
